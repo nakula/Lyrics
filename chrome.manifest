@@ -1,0 +1,2 @@
+content	lyrics	content/
+overlay	chrome://browser/content/browser.xul	chrome://lyrics/content/script-compiler-overlay.xul

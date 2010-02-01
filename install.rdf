@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>{0e92e63d-3f90-471b-a4f0-b2de052aa046}</em:id>
+		<em:name>lyrics</em:name>
+		<em:version>0.2</em:version>
+		<em:description>fetch lyrics for youtube video + last.fm music</em:description>
+		<em:creator>Nakul Aggarwal</em:creator>
+		<em:contributor>Greasemonkey Compiler by Anthony Lieuallen;</em:contributor>
+		<em:contributor>http://arantius.com/</em:contributor>
+		<em:homepageURL>http://www.quarkruby.com</em:homepageURL>
+		<em:targetApplication>
+			<Description>
+				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+				<em:minVersion>2.0</em:minVersion>
+				<em:maxVersion>3.*.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+	</Description>
+</RDF>
