@@ -1,0 +1,7 @@
+Though, it uses Greasemonkey Compiler by Anthony Lieuallen, it doesn't work out of the box for "Required" files in user scripts.
+fixed it to handle that.
+
+and now we have the firefox plugin for fetching lyrics into my music sites. Supports:
+1. youtube.com/watch
+1. youtube.com/disco
+1. last.fm/artist/_/song
